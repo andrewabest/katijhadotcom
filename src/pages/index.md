@@ -1,6 +1,6 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
+title: Katijhas Coffees
 image: /img/home-jumbotron.jpg
 heading: Great coffee with a conscience
 subheading: Testing a change to the website

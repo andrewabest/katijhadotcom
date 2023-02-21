@@ -1,20 +1,16 @@
 ---
 templateKey: index-page
-title: Katijhas Coffees
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Testing a change to the website
+title: A channel for healing
+image: /img/pexels-sharath-g-5756208.jpg
+heading: A channel for healing
+subheading: xxxx
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  title: Why Reiki
+  description: Reiki is the act of giving without really knowing the outcome. Step
+    aside and let the spirit of reiki work its freedom. I love to teach reiki
+    and be able to plant a seed that healing is possible that any individual can
+    learn and benefit from this simple yet profound experience.
+description: xxxx
 intro:
   blurbs:
     - image: /img/coffee.png
